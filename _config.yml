@@ -2,6 +2,7 @@ name: WODDice
 favicon: null
 layout_spectrum: 0.5659553310833871
 typography_spectrum: 0.639632333535701
+title: WODDice®
 cta:
   domain: null
   bucket: null
